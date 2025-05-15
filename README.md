@@ -32,7 +32,7 @@ sudo ./kernel-cleaner.sh
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/clear-old-kernels/main/kernel-cleaner.sh
+curl -O https://raw.githubusercontent.com/harsh1thX/clear-old-kernels/main/kernel-cleaner.sh
 
 # Make it executable
 chmod +x kernel-cleaner.sh
